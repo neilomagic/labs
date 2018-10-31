@@ -7,9 +7,13 @@ this comes after the initial staging
 after several considerations, we will not be greedy with this branch
 
 -------------------------------
+<<<<<<< HEAD
 on the contrary, we will be greedy
 ...............
 labguru
 easyclinic
 storeguru
 docsguru
+=======
+on the contrary, we will be greedy
+>>>>>>> 8fe23fad282ece2bc87c68261d615af8a68329a9
