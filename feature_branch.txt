@@ -1,0 +1,15 @@
+this is hte list of desirables int the new branch.
+list, bullets, header, etc
+
+;;;;;;;;;;;;;;;;;;;;;;
+this comes after the initial staging
+
+after several considerations, we will not be greedy with this branch
+
+-------------------------------
+on the contrary, we will be greedy
+...............
+labguru
+easyclinic
+storeguru
+docsguru
